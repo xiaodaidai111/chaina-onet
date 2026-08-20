@@ -1,0 +1,1098 @@
+﻿job_id,sentence_id,original_sentence,matched_task_id,matched_task_zh,matched_task_en,score,rank
+2364201402001,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201402001,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201402001,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201402001,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201402001,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201402001,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201402001,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201402001,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201402001,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201402001,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201402001,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201402001,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201402001,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201402001,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201402001,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201402001,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201402001,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201402001,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201402001,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201402001,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201402001,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201402001,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201402001,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201403002,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201403002,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201403002,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201403002,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201403002,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201403002,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201403002,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201403002,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201403002,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201403002,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201403002,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201403002,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201403002,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201403002,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201403002,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201403002,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201403002,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201403002,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201403002,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201403002,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201403002,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201403002,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201403002,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201405003,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201405003,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201405003,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201405003,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201405003,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201405003,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201405003,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201405003,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201405003,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201405003,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201405003,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201405003,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201405003,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201405003,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201405003,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201405003,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201405003,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201405003,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201405003,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201405003,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201405003,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201405003,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201405003,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201406004,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201406004,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201406004,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201406004,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201406004,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201406004,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201406004,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201406004,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201406004,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201406004,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201406004,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201406004,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201406004,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201406004,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201406004,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201406004,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201406004,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201406004,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201406004,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201406004,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201406004,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201406004,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201406004,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,1277,作为系统程序员，执行系统分析和编程任务以维护和控制计算机系统软件的使用。,Perform systems analysis and programming tasks to maintain and control the use of computer systems software as a systems programmer.,0.7665,1
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,14633,设计计算机和运行它们的软件。,Design computers and the software that runs them.,0.7575,2
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,14670,与工程师或软件开发人员合作，选择合适的设计解决方案或确保系统组件的兼容性。,Collaborate with engineers or software developers to select appropriate design solutions or ensure the compatibility of system components.,0.7388,3
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,1322,设计、配置和测试计算机硬件、网络软件和操作系统软件。,"Design, configure, and test computer hardware, networking software and operating system software.",0.73,4
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,21669,开发或指导软件系统测试或验证程序、编程或文档。,"Develop or direct software system testing or validation procedures, programming, or documentation.",0.7291,5
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,14653,向开发人员提供有关软件可用性和功能的反馈和建议。,Provide feedback and recommendations to developers on software usability and functionality.,0.7244,6
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,21667,设计、开发和修改软件系统，使用科学分析和数学模型来预测和衡量设计的结果和后果。,"Design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcomes and consequences of design.",0.7199,7
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,21662,分析用户需求和软件要求，以确定在时间和成本限制下设计的可行性。,Analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,0.719,8
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,14646,参与产品设计评审，提供有关功能需求、产品设计、进度表或潜在问题的意见。,"Participate in product design reviews to provide input on functional requirements, product designs, schedules, or potential problems.",0.7159,9
+2364201407005,1,软件设计师，主要是确定系统功能需求规范，完成系统的设计，协助系统的开发与测试工作,16177,与用户界面设计和工程人员合作，根据市场研究分析确定产品需求。,"Define product requirements, based on market research analysis, in collaboration with user interface design and engineering staff.",0.7155,10
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,9667,参加公司会议，与其他部门交流产品信息并协调工作活动。,Attend company meetings to exchange product information and coordinate work activities with other departments.,0.7998,1
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,3244,指导和协调产品研发。,Direct and coordinate product research and development.,0.7699,2
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,14666,与员工或客户沟通以了解特定的系统要求。,Communicate with staff or clients to understand specific system requirements.,0.7599,3
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,11384,与客户和供应商沟通，交换有关产品、材料和服务的信息。,"Communicate with customers and vendors to exchange information regarding products, materials, and services.",0.7595,4
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,16099,为初级员工或客户提供技术支持。,Provide technical support to junior staff or clients.,0.7554,5
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,21650,为初级员工或客户提供技术支持。,Provide technical support to junior staff or clients.,0.7554,6
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,9712,向员工解释和传达工作程序和公司政策。,Interpret and communicate work procedures and company policies to staff.,0.7548,7
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,9680,与销售团队合作，了解客户需求，促进公司产品的销售，并提供销售支持。,"Collaborate with sales teams to understand customer requirements, to promote the sale of company products, and to provide sales support.",0.7532,8
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,1448,与其他工作人员协调和咨询，以设计、布局或详细说明组件和系统，并解决设计或其他问题。,"Coordinate with and consult other workers to design, lay out, or detail components and systems and to resolve design or other problems.",0.7507,9
+2364201407005,2,掌握公司现有的产品，负责前期的技术交流和系统介绍,15698,参与协调工程变更、产品线扩展或新产品发布，以确保物料或生产流程有序、及时地转换。,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",0.7451,10
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,9680,与销售团队合作，了解客户需求，促进公司产品的销售，并提供销售支持。,"Collaborate with sales teams to understand customer requirements, to promote the sale of company products, and to provide sales support.",0.8654,1
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,18957,与客户、销售人员或营销人员沟通以确定客户需求。,"Communicate with customers, sales staff, or marketing staff to determine customer needs.",0.8618,2
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,944,执行销售现场工作，例如问候或协助客户、整理货架或盘点库存。,"Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory.",0.8333,3
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,826,与客户、员工和其他个人沟通，回答问题、传播或解释信息、接受订单和解决投诉。,"Communicate with customers, employees, and other individuals to answer questions, disseminate or explain information, take orders, and address complaints.",0.8205,4
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,20714,通过与销售或采购人员协商，获取有关客户需求或偏好的信息。,Obtain information about customer needs or preferences by conferring with sales or purchasing personnel.,0.8193,5
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,22412,分析顾客的请求以确定所需的信息并协助提供或查找该信息。,Analyze patrons' requests to determine needed information and assist in furnishing or locating that information.,0.8148,6
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,17591,接受客户订单并将其传达给其他员工进行准备。,Take customer orders and convey them to other employees for preparation.,0.813,7
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,8115,联系老客户和潜在客户展示产品、解释产品功能并征求订单。,"Contact regular and prospective customers to demonstrate products, explain product features, and solicit orders.",0.8113,8
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,15426,与营销和销售部门协商以确定客户的要求和期望。,Confer with marketing and sales departments to define client requirements and expectations.,0.8069,9
+2364201407005,3,与客户/前方销售人员接触，了解并确定客户需求，完成业务需求和相关资料的收集,1124,与客户会面，安排和计划会议、宴会、招待会和其他活动的细节。,"Meet with clients to schedule and plan details of conventions, banquets, receptions and other functions.",0.8046,10
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,15982,准备需求文档以供软件开发人员使用。,Prepare requirements documentation for use by software developers.,0.7855,1
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,7402,编写详细的功能规范，记录硬件开发过程并支持硬件介绍。,Write detailed functional specifications that document the hardware development process and support hardware introduction.,0.7456,2
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,9695,撰写产品技术文档。,Write technical documentation for products.,0.7158,3
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,16488,开发客户文档，例如性能规格、培训手册或操作说明。,"Develop customer documentation, such as performance specifications, training manuals, or operating instructions.",0.7145,4
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,1429,编写产品开发或工程项目的性能要求。,Write performance requirements for product development or engineering projects.,0.7136,5
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7102,6
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,20932,创建设计规范以提供服装缝纫和组装说明。,Create design specifications to provide instructions on garment sewing and assembly.,0.7057,7
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,13560,阅读蓝图和规范以确定工作要求。,Read blueprints and specifications to determine job requirements.,0.7019,8
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,16231,进行需求评估，以确定部门或最终用户的文档管理要求。,Conduct needs assessments to identify document management requirements of departments or end users.,0.6902,9
+2364201407005,4,根据需求撰写需求规范文档及功能规范（概要设计）文档,16209,开发和维护设计级文档，包括机制、指南和任务大纲。,"Develop and maintain design level documentation, including mechanics, guidelines, and mission outlines.",0.6889,10
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,21953,在数据库中查找与指定设计项目相关的文件，将程序加载到计算机中，并记录已完成的作业数据。,"Locate files relating to specified design project in database library, load program into computer, and record completed job data.",0.7277,1
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,16476,创建嵌入式软件设计程序。,Create embedded software design programs.,0.7258,2
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,1709,设计、定制和维护数据库、网页和局域网。,"Design, customize, and maintain databases, web pages, and local area networks.",0.7193,3
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,14633,设计计算机和运行它们的软件。,Design computers and the software that runs them.,0.7192,4
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,14704,开发支持 Web 应用程序和网站的数据库。,Develop databases that support Web applications and Web sites.,0.7168,5
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,9261,使用专门的计算机软件开发设计。,Develop designs using specialized computer software.,0.7078,6
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,16787,开发数据模型和数据库。,Develop data models and databases.,0.7062,7
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,16109,设计数据库以支持业务应用程序，确保系统可扩展性、安全性、性能和可靠性。,"Design databases to support business applications, ensuring system scalability, security, performance, and reliability.",0.7008,8
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,16128,设计和实现仓库数据库结构。,Design and implement warehouse database structures.,0.6991,9
+2364201407005,5,完成软件产品的界面设计，数据库设计，以及系统的详细设计,297,构思并帮助设计多媒体游戏、产品和设备的界面。,"Conceptualize and help design interfaces for multimedia games, products, and devices.",0.6983,10
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,1448,与其他工作人员协调和咨询，以设计、布局或详细说明组件和系统，并解决设计或其他问题。,"Coordinate with and consult other workers to design, lay out, or detail components and systems and to resolve design or other problems.",0.8077,1
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,16207,指导开发团队之间的设计讨论。,Guide design discussions between development teams.,0.7949,2
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7807,3
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,16212,与生产人员协作创建和管理文档、生产计划、原型设计目标和沟通计划。,"Create and manage documentation, production schedules, prototyping goals, and communication plans in collaboration with production staff.",0.777,4
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,21664,与系统分析师、工程师、程序员和其他人协商设计系统并获取有关项目限制和功能、性能要求和接口的信息。,"Confer with systems analysts, engineers, programmers and others to design systems and to obtain information on project limitations and capabilities, performance requirements and interfaces.",0.7753,5
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,1400,与管理人员和用户人员沟通制定生产和设计标准。,Communicate with management and user personnel to develop production and design standards.,0.7641,6
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,5318,与机构人员和外部供应商协调计算机系统计划的实施。,Coordinate implementation of computer system plan with establishment personnel and outside vendors.,0.7605,7
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,14737,与开发团队合作讨论、分析或解决可用性问题。,"Collaborate with development teams to discuss, analyze, or resolve usability issues.",0.757,8
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,22829,与文职人员或其他技术人员和技术人员协调工作。,Coordinate work with clerical personnel or other technologists and technicians.,0.7567,9
+2364201407005,6,负责与系统开发、测试等小组沟通，确保各个协作小组对系统设计文档的充分准确理解,18958,与系统用户沟通，以确保帐户设置正确或诊断和解决操作问题。,Communicate with system users to ensure accounts are set up properly or to diagnose and solve operational problems.,0.7504,10
+2364201407005,7,推动及协调开发进度，把控项目质量,1357,监督项目生产工作，以确保项目按时并在预算范围内完成。,Oversee project production efforts to assure projects are completed on time and within budget.,0.7836,1
+2364201407005,7,推动及协调开发进度，把控项目质量,23920,指导或支持质量改进项目或安全计划。,Direct or support quality improvement projects or safety programs.,0.7778,2
+2364201407005,7,推动及协调开发进度，把控项目质量,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7752,3
+2364201407005,7,推动及协调开发进度，把控项目质量,21277,监督建设和改造项目，以提高效率并确保设施符合环境、健康和安全标准，并遵守政府法规。,"Oversee construction and renovation projects to improve efficiency and to ensure that facilities meet environmental, health, and security standards, and comply with government regulations.",0.7727,4
+2364201407005,7,推动及协调开发进度，把控项目质量,19610,指导工程活动，确保遵守环境、安全或其他政府法规。,"Direct engineering activities, ensuring compliance with environmental, safety, or other governmental regulations.",0.7723,5
+2364201407005,7,推动及协调开发进度，把控项目质量,20332,计划、安排或协调建设项目活动以按时完成。,"Plan, schedule, or coordinate construction project activities to meet deadlines.",0.7696,6
+2364201407005,7,推动及协调开发进度，把控项目质量,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.7691,7
+2364201407005,7,推动及协调开发进度，把控项目质量,3244,指导和协调产品研发。,Direct and coordinate product research and development.,0.7597,8
+2364201407005,7,推动及协调开发进度，把控项目质量,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7577,9
+2364201407005,7,推动及协调开发进度，把控项目质量,20555,规划或指导项目的开发或沟通，以维持公众或股东对组织的成就、议程或环境责任的良好看法。,"Plan or direct development or communication of programs to maintain favorable public or stockholder perceptions of an organization's accomplishments, agenda, or environmental responsibility.",0.7562,10
+2364201407005,8,配合测试组完成产品的测试工作,20304,放置产品、组件或零件进行测试。,"Position products, components, or parts for testing.",0.7769,1
+2364201407005,8,配合测试组完成产品的测试工作,4937,检查并包装最终产品。,Inspect and pack the final product.,0.7647,2
+2364201407005,8,配合测试组完成产品的测试工作,16963,与合同实验室和供应商协调测试。,Coordinate testing with contract laboratories and vendors.,0.7596,3
+2364201407005,8,配合测试组完成产品的测试工作,3895,测试设备以确保正常运行。,Test equipment to ensure proper operation.,0.7594,4
+2364201407005,8,配合测试组完成产品的测试工作,1560,与客户讨论测试结果和分析。,Discuss test results and analyses with customers.,0.7553,5
+2364201407005,8,配合测试组完成产品的测试工作,18475,进行质量控制测试。,Conduct quality control tests.,0.7544,6
+2364201407005,8,配合测试组完成产品的测试工作,1857,进行指定的实验室测试。,Conduct specified laboratory tests.,0.7509,7
+2364201407005,8,配合测试组完成产品的测试工作,1546,运营实验工厂，协助实验设计。,"Operate experimental pilot plants, assisting with experimental design.",0.7495,8
+2364201407005,8,配合测试组完成产品的测试工作,14660,协调用户或第三方测试。,Coordinate user or third-party testing.,0.747,9
+2364201407005,8,配合测试组完成产品的测试工作,14191,操作机器进行试运行以验证调整并获取产品样品。,Operate machines for test runs to verify adjustments and to obtain product samples.,0.745,10
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,9667,参加公司会议，与其他部门交流产品信息并协调工作活动。,Attend company meetings to exchange product information and coordinate work activities with other departments.,0.7998,1
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,3244,指导和协调产品研发。,Direct and coordinate product research and development.,0.7699,2
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,14666,与员工或客户沟通以了解特定的系统要求。,Communicate with staff or clients to understand specific system requirements.,0.7599,3
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,11384,与客户和供应商沟通，交换有关产品、材料和服务的信息。,"Communicate with customers and vendors to exchange information regarding products, materials, and services.",0.7595,4
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,16099,为初级员工或客户提供技术支持。,Provide technical support to junior staff or clients.,0.7554,5
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,21650,为初级员工或客户提供技术支持。,Provide technical support to junior staff or clients.,0.7554,6
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,9712,向员工解释和传达工作程序和公司政策。,Interpret and communicate work procedures and company policies to staff.,0.7548,7
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,9680,与销售团队合作，了解客户需求，促进公司产品的销售，并提供销售支持。,"Collaborate with sales teams to understand customer requirements, to promote the sale of company products, and to provide sales support.",0.7532,8
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,1448,与其他工作人员协调和咨询，以设计、布局或详细说明组件和系统，并解决设计或其他问题。,"Coordinate with and consult other workers to design, lay out, or detail components and systems and to resolve design or other problems.",0.7507,9
+2364201407005,9,掌握公司现有的产品，负责前期的技术交流和系统介绍,15698,参与协调工程变更、产品线扩展或新产品发布，以确保物料或生产流程有序、及时地转换。,"Participate in the coordination of engineering changes, product line extensions, or new product launches to ensure orderly and timely transitions in material or production flow.",0.7451,10
+2364201408006,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201408006,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201408006,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201408006,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201408006,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201408006,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201408006,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201408006,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201408006,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201408006,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201408006,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201408006,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201408006,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201408006,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201408006,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201408006,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201408006,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201408006,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201408006,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201408006,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201408006,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201408006,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201408006,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201409007,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201409007,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201409007,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201409007,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201409007,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201409007,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201409007,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201409007,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201409007,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201409007,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201409007,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201409007,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201409007,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201409007,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201409007,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201409007,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201409007,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201409007,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201409007,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201409007,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201409007,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201409007,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201409007,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201413008,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201413008,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201413008,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201413008,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201413008,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201413008,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201413008,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201413008,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201413008,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201413008,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201413008,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201413008,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201413008,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201413008,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201413008,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201413008,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201413008,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201413008,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201413008,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201413008,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201413008,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201413008,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201413008,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201414009,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201414009,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201414009,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201414009,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201414009,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201414009,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201414009,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201414009,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201414009,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201414009,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201414009,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201414009,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201414009,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201414009,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201414009,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201414009,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201414009,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201414009,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201414009,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201414009,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201414009,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201414009,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201414009,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201415010,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201415010,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201415010,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201415010,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201415010,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201415010,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201415010,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201415010,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201415010,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201415010,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201415010,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201415010,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201415010,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201415010,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201415010,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201415010,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201415010,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201415010,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201415010,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201415010,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201415010,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201415010,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201415010,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201416011,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201416011,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201416011,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201416011,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201416011,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201416011,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201416011,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201416011,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201416011,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201416011,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201416011,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201416011,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201416011,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201416011,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201416011,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201416011,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201416011,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201416011,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201416011,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201416011,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201416011,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201416011,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201416011,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,17660,制定销售区域的营销或战略计划。,Develop marketing or strategic plans for sales territories.,0.7998,1
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,11,规划和指导人员配置、培训和绩效评估，以制定和控制销售和服务计划。,"Plan and direct staffing, training, and performance evaluations to develop and control sales and service programs.",0.7779,2
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,22540,制定成品营销计划，与销售人员合作监督产品分销。,"Develop marketing plans for finished products, collaborating with sales associates to supervise product distribution.",0.772,3
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,9680,与销售团队合作，了解客户需求，促进公司产品的销售，并提供销售支持。,"Collaborate with sales teams to understand customer requirements, to promote the sale of company products, and to provide sales support.",0.7643,4
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,17606,制定员工服务或零售目标并指导员工实现目标。,Develop staff service or retail goals and guide staff in goal achievement.,0.763,5
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,954,指导营销或销售人员的招聘、培训或绩效评估，并监督他们的日常活动。,"Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",0.761,6
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,18586,管理销售团队，包括设定目标、提供激励和评估员工绩效。,"Manage sales team, including setting goals, providing incentives, and evaluating employee performance.",0.7582,7
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,968,指导部门的日常运营，分析工作流程，确定优先事项，制定标准并设定期限。,"Direct daily operations of department, analyzing workflow, establishing priorities, developing standards and setting deadlines.",0.7556,8
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,18040,帮助制定或实施业务部门的战略和运营计划。,Contribute to the development or implementation of business unit strategic and operating plans.,0.7542,9
+2364201417012,1,根据公司下达的销售目标，制定所辖区域或产品方向的市场营销策略和营销计划（年、季、月），分解销售目标，对所辖区域年度销售指标的完成负责,21221,与营销团队成员、图形艺术家和其他工作人员协调，制定和实施营销计划。,"Coordinate with marketing team members, graphic artists, and other workers to develop and implement marketing programs.",0.747,10
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,17660,制定销售区域的营销或战略计划。,Develop marketing or strategic plans for sales territories.,0.8372,1
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,954,指导营销或销售人员的招聘、培训或绩效评估，并监督他们的日常活动。,"Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",0.8169,2
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,11,规划和指导人员配置、培训和绩效评估，以制定和控制销售和服务计划。,"Plan and direct staffing, training, and performance evaluations to develop and control sales and service programs.",0.8091,3
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,14,监督区域和当地销售经理及其员工。,Oversee regional and local sales managers and their staffs.,0.7993,4
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,18040,帮助制定或实施业务部门的战略和运营计划。,Contribute to the development or implementation of business unit strategic and operating plans.,0.7829,5
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,21221,与营销团队成员、图形艺术家和其他工作人员协调，制定和实施营销计划。,"Coordinate with marketing team members, graphic artists, and other workers to develop and implement marketing programs.",0.7824,6
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,3,指导和协调涉及制成品、服务、商品、房地产或其他销售标的销售的活动。,"Direct and coordinate activities involving sales of manufactured products, services, commodities, real estate, or other subjects of sale.",0.7717,7
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,22540,制定成品营销计划，与销售人员合作监督产品分销。,"Develop marketing plans for finished products, collaborating with sales associates to supervise product distribution.",0.7701,8
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,674,规划和协调广告活动和促销活动，并准备商品展示和广告文案。,Plan and coordinate advertising campaigns and sales promotions and prepare merchandise displays and advertising copy.,0.7682,9
+2364201417012,2,组织和指导本区域销售人员做好营销策略和营销计划,8,向经销商和分销商提供有关政策和操作程序的建议，以确保业务的职能有效性。,Advise dealers and distributors on policies and operating procedures to ensure functional effectiveness of business.,0.7665,10
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,4327,履行办公室接待职责，例如安排预约或帮助客户。,"Perform office reception duties, such as scheduling appointments or helping customers.",0.7503,1
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,23575,与客户安排工作并启动工作订单、房屋申请和库存订单。,"Schedule work with customers and initiate work orders, house requisitions, and orders from stock.",0.7463,2
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,2376,参与案例审查，咨询照顾客户的团队，评估客户的需求并制定持续服务计划。,"Participate in case reviews, consulting with the team caring for the client, to evaluate the client's needs and plan for continuing services.",0.7431,3
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,12873,安排有关涉及客户的问题的会议。,Arrange meetings concerning issues involving their clients.,0.7412,4
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,18534,执行行政或业务管理任务，例如安排约会、接受客户付款、制定预算或维护业务记录。,"Perform administrative or business management tasks, such as scheduling appointments, accepting payments from clients, budgeting, or maintaining business records.",0.7386,5
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,22600,与处理行政细节、寻找工作和谈判合同的经理或代理人合作。,"Collaborate with a manager or agent who handles administrative details, finds work, and negotiates contracts.",0.7369,6
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,1124,与客户会面，安排和计划会议、宴会、招待会和其他活动的细节。,"Meet with clients to schedule and plan details of conventions, banquets, receptions and other functions.",0.7347,7
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,21311,与个人或企业客户建立并维持关系，或为这些客户可能遇到的问题提供帮助。,Establish and maintain relationships with individual or business customers or provide assistance with problems these customers may encounter.,0.7342,8
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,944,执行销售现场工作，例如问候或协助客户、整理货架或盘点库存。,"Perform sales floor work, such as greeting or assisting customers, stocking shelves, or taking inventory.",0.7333,9
+2364201417012,3,直接参与所辖区域业务，尤其是重要客户的业务谈判及签单、新客户拓展等工作,23265,执行一般管理任务，例如接听电话、安排预约以及订购用品或设备。,"Perform general administrative tasks, such as answering telephones, scheduling appointments, and ordering supplies or equipment.",0.7332,10
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,2474,记录有关客户财务状况和催收工作状态的信息。,Record information about financial status of customers and status of collection efforts.,0.7481,1
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,14,监督区域和当地销售经理及其员工。,Oversee regional and local sales managers and their staffs.,0.7473,2
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,8794,总销售额，并向客户收款。,"Total sales, and collect money from customers.",0.7442,3
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,23308,致电客户收取拖欠帐户的付款。,Call customers to collect payment on delinquent accounts.,0.7414,4
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,2682,收取商品付款、记录交易并发送支票或汇票等物品以进行进一步处理。,"Collect payment for merchandise, record transactions, and send items, such as checks or money orders for further processing.",0.7412,5
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,660,指导和监督从事销售、盘点、核对现金收入或为客户提供服务的员工。,"Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or in performing services for customers.",0.7387,6
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,17588,接收并处理客户付款。,Receive and process customer payments.,0.7367,7
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,20266,指导和监督从事销售、盘点、核对现金收入或执行特定服务的员工。,"Direct and supervise employees engaged in sales, inventory-taking, reconciling cash receipts, or performing specific services.",0.7339,8
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,5301,对拖欠纳税人规定付款期限并监督付款以确保按时付款。,Impose payment deadlines on delinquent taxpayers and monitor payments to ensure that deadlines are met.,0.7337,9
+2364201417012,4,跟进销售回款，督促区域内销售人员做好应收账款的催收工作,23312,审查个人或商业客户文件，以识别和选择拖欠账户进行催收。,Review individual or commercial customer files to identify and select delinquent accounts for collection.,0.7327,10
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,16267,为营销、临床监测和医疗事务等职能领域提供支持和信息。,"Provide support and information to functional areas such as marketing, clinical monitoring, and medical affairs.",0.7774,1
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,23209,向其他交易者、经理或客户通报市场状况，包括数量、价格、竞争或动态。,"Inform other traders, managers, or customers of market conditions, including volume, price, competition, or dynamics.",0.761,2
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,3156,向老客户通报新产品或服务以及价格变化。,Inform regular customers of new products or services and price changes.,0.7556,3
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,23162,向客户提供有关事件或活动的信息。,Furnish customers with information on events or activities.,0.7477,4
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,23234,监控市场状况、创新以及竞争对手的服务、价格和销售。,"Monitor market conditions, innovations, and competitors' services, prices, and sales.",0.7475,5
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,13201,了解竞争对手的产品或消费者的兴趣或疑虑，以回答问题或提供更完整的信息。,Learn about competitors' products or consumers' interests or concerns to answer questions or provide more complete information.,0.7415,6
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,1418,向设计工程师提供有关客户问题或需求的反馈。,Provide feedback to design engineers on customer problems or needs.,0.7408,7
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,20188,监控金融市场趋势，确保客户计划能够及时响应。,Monitor financial market trends to ensure that client plans are responsive.,0.74,8
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,4589,获取并研究有关客户的产品、需求、问题、广告历史和业务实践的信息，以提供有效的销售演示和适当的产品帮助。,"Obtain and study information about clients' products, needs, problems, advertising history, and business practices to offer effective sales presentations and appropriate product assistance.",0.7398,9
+2364201417012,5,负责提供区域内市场趋势、需求变化、竞争对手和客户反馈方面的准确信息,9692,随时了解行业新闻和趋势、产品、服务、竞争对手、有关传统、现有和新兴技术的相关信息，以及最新的产品线开发。,"Keep informed on industry news and trends, products, services, competitors, relevant information about legacy, existing, and emerging technologies, and the latest product-line developments.",0.7391,10
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,5436,预测并跟踪营销和销售趋势，分析收集的数据。,"Forecast and track marketing and sales trends, analyzing collected data.",0.7951,1
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,11,规划和指导人员配置、培训和绩效评估，以制定和控制销售和服务计划。,"Plan and direct staffing, training, and performance evaluations to develop and control sales and service programs.",0.7788,2
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,9668,为管理和预算部门准备销售和库存报告。,Prepare sales and inventory reports for management and budget departments.,0.7772,3
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,2686,计算并编制订单相关统计数据，并为管理层准备报告。,"Calculate and compile order-related statistics, and prepare reports for management.",0.7704,4
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,8124,履行行政职责，例如准备销售预算和报告、保存销售记录以及提交费用账户报告。,"Perform administrative duties, such as preparing sales budgets and reports, keeping sales records, and filing expense account reports.",0.7621,5
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,670,估计消费者需求并确定要销售的商品的类型和数量。,Estimate consumer demand and determine the types and amounts of goods to be sold.,0.7612,6
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,6,指导、协调和审查销售和服务会计和记录保存，以及接收和运输。,"Direct, coordinate, and review sales and service accounting and record-keeping, as well as receiving and shipping.",0.7575,7
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,18831,进行市场研究并分析行业趋势。,Conduct market research and analyze industry trends.,0.751,8
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,23696,分析和记录人员或运营数据并撰写相关活动报告。,Analyze and record personnel or operational data and write related activity reports.,0.7493,9
+2364201417012,6,负责相关的市场调研与分析预测工作，提交销售分析和总结报告,23157,分析和记录人员或运营数据并撰写相关活动报告。,Analyze and record personnel or operational data and write related activity reports.,0.7493,10
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,11,规划和指导人员配置、培训和绩效评估，以制定和控制销售和服务计划。,"Plan and direct staffing, training, and performance evaluations to develop and control sales and service programs.",0.8348,1
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,954,指导营销或销售人员的招聘、培训或绩效评估，并监督他们的日常活动。,"Direct the hiring, training, or performance evaluations of marketing or sales staff and oversee their daily activities.",0.8112,2
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,17660,制定销售区域的营销或战略计划。,Develop marketing or strategic plans for sales territories.,0.8007,3
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,18586,管理销售团队，包括设定目标、提供激励和评估员工绩效。,"Manage sales team, including setting goals, providing incentives, and evaluating employee performance.",0.7982,4
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,665,雇用、培训和评估销售或营销机构的人员，并在适当的时候晋升或解雇员工。,"Hire, train, and evaluate personnel in sales or marketing establishments, promoting or firing workers when appropriate.",0.7885,5
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,3,指导和协调涉及制成品、服务、商品、房地产或其他销售标的销售的活动。,"Direct and coordinate activities involving sales of manufactured products, services, commodities, real estate, or other subjects of sale.",0.7796,6
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,22186,制定、指导和参与员工和学生的培训计划。,"Develop, direct, and participate in training programs for staff and students.",0.7681,7
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,968,指导部门的日常运营，分析工作流程，确定优先事项，制定标准并设定期限。,"Direct daily operations of department, analyzing workflow, establishing priorities, developing standards and setting deadlines.",0.7636,8
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,17606,制定员工服务或零售目标并指导员工实现目标。,Develop staff service or retail goals and guide staff in goal achievement.,0.7603,9
+2364201417012,7,制定所辖区域或产品方向的销售团队建设和人员发展计划，依照销售管理办法和销售政策，制定并执行本区域销售人员的培训、工作考核、核算、奖惩方案,933,指导和协调与产品生产、定价、销售或分销有关的企业或部门的活动。,"Direct and coordinate activities of businesses or departments concerned with the production, pricing, sales, or distribution of products.",0.7591,10
+2364201418013,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201418013,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201418013,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201418013,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201418013,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201418013,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201418013,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201418013,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201418013,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201418013,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201418013,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201418013,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201418013,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201418013,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201418013,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201418013,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201418013,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201418013,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201418013,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201418013,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201418013,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201418013,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201418013,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201419014,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201419014,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201419014,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201419014,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201419014,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201419014,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201419014,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201419014,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201419014,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201419014,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201419014,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201419014,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201419014,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201419014,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201419014,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201419014,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201419014,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201419014,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201419014,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201419014,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201419014,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201419014,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201419014,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",1365,进行现场调查或研究地图、图表、图表或其他数据，以识别和纠正电力系统问题。,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",0.7468,1
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",1363,编译有关现有或潜在的电气工程研究或项目的数据并撰写报告。,Compile data and write reports regarding existing or potential electrical engineering studies or projects.,0.7227,2
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",23612,分析发电或输电设施的布局、仪表或功能。,"Analyze the layout, instrumentation, or function of electrical generation or transmission facilities.",0.7189,3
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",3560,设计和规划设备布局。,Design and plan layout of equipment.,0.6982,4
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",1360,规划发电厂或配电线路或车站的布局。,Plan layout of electric power generating plants or distribution lines or stations.,0.6979,5
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",1328,收集与客户需求相关的数据，并使用这些信息来识别、预测、解释和评估系统和网络需求。,"Gather data pertaining to customer needs, and use the information to identify, predict, interpret, and evaluate system and network requirements.",0.6972,6
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",19407,阅读工单、蓝图、计划、数据表或现场图纸以确定要完成的工作。,"Read work orders, blueprints, plans, datasheets or site drawings to determine work to be done.",0.6951,7
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",11570,阅读和解释蓝图，以确定系统组件、框架和基础的布局，并选择安装设备。,"Read and interpret blueprints to determine the layout of system components, frameworks, and foundations, and to select installation equipment.",0.6951,8
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",3474,使用结构化分析、数据建模和信息工程等技术来分析信息处理或计算需求，并规划和设计计算机系统。,"Analyze information processing or computation needs and plan and design computer systems, using techniques such as structured analysis, data modeling, and information engineering.",0.6933,9
+2364201420015,1,"应用专业知识进行电力系统数据分析处理,逐步理解电网规划相关流程",15477,评估电力生产或需求趋势，以确定改进运营的机会。,Evaluate power production or demand trends to identify opportunities for improved operations.,0.6919,10
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,305,与客户协商讨论并确定布局设计。,Confer with clients to discuss and determine layout design.,0.7439,1
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,8292,与客户讨论设计。,Discuss the design with the client.,0.7429,2
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,4028,与客户讨论生产要求。,Discuss production requirements with clients.,0.7427,3
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,12873,安排有关涉及客户的问题的会议。,Arrange meetings concerning issues involving their clients.,0.7385,4
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,9794,与客户讨论数据呈现要求。,Discuss data presentation requirements with clients.,0.7384,5
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,1071,与客户协商或谈判准备项目规格。,Consult or negotiate with clients to prepare project specifications.,0.7337,6
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,13,与潜在客户协商设备需求，并就购买设备类型向客户提供建议。,"Confer with potential customers regarding equipment needs, and advise customers on types of equipment to purchase.",0.7314,7
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,18961,与相关网络的设计者协调网络或设计活动。,Coordinate network or design activities with designers of associated networks.,0.7294,8
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,9679,与客户和工程师协商，评估设备需求并确定系统要求。,Confer with customers and engineers to assess equipment needs and to determine system requirements.,0.7281,9
+2364201420015,2,参与与客户有关负荷及网架规划的阶段性讨论汇报,20822,制定详细规格并与客户讨论项目。,Draw up detailed specifications and discuss projects with customers.,0.7274,10
+2364201420015,3,文本编撰直至项目评审.,1654,撰写和审查资助提案、期刊文章、机构报告和宣传材料。,"Write and review grant proposals, journal articles, institutional reports, and publicity materials.",0.7336,1
+2364201420015,3,文本编撰直至项目评审.,7206,准备项目建议书。,Prepare project proposals.,0.7332,2
+2364201420015,3,文本编撰直至项目评审.,12953,协助准备项目相关的报告、手稿和演示文稿。,"Provide assistance with the preparation of project-related reports, manuscripts, and presentations.",0.7311,3
+2364201420015,3,文本编撰直至项目评审.,23901,确定并申请项目资金。,Identify and apply for project funding.,0.7282,4
+2364201420015,3,文本编撰直至项目评审.,12962,根据项目完成的要求执行数据输入和其他文书工作。,Perform data entry and other clerical work as required for project completion.,0.7274,5
+2364201420015,3,文本编撰直至项目评审.,21475,制作和分发项目文件。,Produce and distribute project documents.,0.7207,6
+2364201420015,3,文本编撰直至项目评审.,21107,撰写提案以赢得新项目。,Write proposals to win new projects.,0.7202,7
+2364201420015,3,文本编撰直至项目评审.,21174,撰写研究计划以获得资助。,Write research proposals to receive funding.,0.7195,8
+2364201420015,3,文本编撰直至项目评审.,22539,撰写并提交项目合同投标提案。,Write and submit proposals to bid on contracts for projects.,0.7146,9
+2364201420015,3,文本编撰直至项目评审.,21130,审查在专业期刊上发表的手稿。,Review manuscripts for publication in professional journals.,0.7145,10
+2364201420015,4,开展电力相关专题研究、创新,1365,进行现场调查或研究地图、图表、图表或其他数据，以识别和纠正电力系统问题。,"Conduct field surveys or study maps, graphs, diagrams, or other data to identify and correct power system problems.",0.6887,1
+2364201420015,4,开展电力相关专题研究、创新,15477,评估电力生产或需求趋势，以确定改进运营的机会。,Evaluate power production or demand trends to identify opportunities for improved operations.,0.6837,2
+2364201420015,4,开展电力相关专题研究、创新,18193,开展新的光子技术研究。,Conduct research on new photonics technologies.,0.6806,3
+2364201420015,4,开展电力相关专题研究、创新,17494,合作开展研究工作。,Collaborate in research studies.,0.6699,4
+2364201420015,4,开展电力相关专题研究、创新,19639,开展有关核能发电、核废料处理或核武器部署等主题的环境研究。,"Conduct environmental studies on topics such as nuclear power generation, nuclear waste disposal, or nuclear weapon deployment.",0.6688,5
+2364201420015,4,开展电力相关专题研究、创新,15516,制定或审查预算、年度计划、电力合同、电价、常设操作程序、电力审查或工程研究。,"Develop or review budgets, annual plans, power contracts, power rates, standing operating procedures, power reviews, or engineering studies.",0.6676,6
+2364201420015,4,开展电力相关专题研究、创新,1866,从事与护理相关的研究活动。,Engage in research activities related to nursing.,0.6579,7
+2364201421016,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201421016,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201421016,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201421016,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201421016,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201421016,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201421016,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201421016,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201421016,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201421016,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201421016,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201421016,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201421016,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201421016,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201421016,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201421016,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201421016,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201421016,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201421016,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201421016,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201421016,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201421016,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201421016,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201422017,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201422017,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201422017,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201422017,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201422017,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201422017,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201422017,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201422017,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201422017,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201422017,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201422017,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201422017,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201422017,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201422017,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201422017,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201422017,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201422017,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201422017,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201422017,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201422017,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201422017,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201422017,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201422017,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201423018,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201423018,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201423018,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201423018,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201423018,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201423018,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201423018,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201423018,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201423018,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201423018,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201423018,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201423018,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201423018,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201423018,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201423018,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201423018,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201423018,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201423018,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201423018,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201423018,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201423018,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201423018,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201423018,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201424019,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201424019,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201424019,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201424019,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201424019,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201424019,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201424019,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201424019,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201424019,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201424019,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201424019,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201424019,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201424019,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201424019,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201424019,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201424019,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201424019,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201424019,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201424019,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201424019,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201424019,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201424019,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201424019,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201427020,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201427020,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201427020,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201427020,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201427020,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201427020,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201427020,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201427020,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201427020,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201427020,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201427020,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201427020,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201427020,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201427020,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201427020,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201427020,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201427020,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201427020,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201427020,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201427020,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201427020,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201427020,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201427020,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10
+2364201428021,1,负责项目前期现场技术考察工作,20997,现场检查施工工作，确保其符合设计计划。,Inspect construction work on site to ensure its adherence to the design plans.,0.7299,1
+2364201428021,1,负责项目前期现场技术考察工作,1466,与主管协商确定项目细节，例如计划准备、验收测试和现场条件评估。,"Confer with supervisor to determine project details such as plan preparation, acceptance testing, and evaluation of field conditions.",0.7028,2
+2364201428021,1,负责项目前期现场技术考察工作,17729,协调或安排太阳能安装项目的建筑检查。,Coordinate or schedule building inspections for solar installation projects.,0.7002,3
+2364201428021,1,负责项目前期现场技术考察工作,22118,协助制定进行实地调查的方法和程序。,Provide assistance in the development of methods and procedures for conducting field surveys.,0.6995,4
+2364201428021,1,负责项目前期现场技术考察工作,16072,检查现场以确定物理配置，例如设备位置和导管路径。,"Inspect sites to determine physical configuration, such as device locations and conduit pathways.",0.6925,5
+2364201428021,1,负责项目前期现场技术考察工作,5850,监督实验室工作和现场工作。,Supervise laboratory work and field work.,0.6872,6
+2364201428021,1,负责项目前期现场技术考察工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.6852,7
+2364201428021,1,负责项目前期现场技术考察工作,11680,通过观察确定场地的可行性，并与客户讨论场地位置和施工要求。,"Determine viability of sites through observation, and discuss site locations and construction requirements with customers.",0.6834,8
+2364201428021,1,负责项目前期现场技术考察工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.6805,9
+2364201428021,1,负责项目前期现场技术考察工作,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.6793,10
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,21162,管理发电设施的安全计划。,Manage safety programs at power generation facilities.,0.6852,1
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.67,2
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,21610,为风险管理系统的开发做出贡献。,Contribute to development of risk management systems.,0.6694,3
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,16156,安排和促进与信息技术项目相关的会议。,Schedule and facilitate meetings related to information technology projects.,0.6675,4
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.6625,5
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,21499,提供系统设计和集成建议。,Provide system design and integration recommendations.,0.6562,6
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,8945,提供项目管理服务，包括技术数据的提供和分析。,"Provide project management services, including the provision and analysis of technical data.",0.6559,7
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,9793,参与数据或信息的发布。,Participate in the publication of data or information.,0.6557,8
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,1465,准备报告并记录项目活动和数据。,Prepare reports and document project activities and data.,0.6552,9
+2364201428021,2,参与电厂项目管理信息平台的设计和建设工作,16276,监督数据管理项目人员的工作。,Supervise the work of data management project staff.,0.6514,10
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,20862,指导能源管理项目的实施。,Direct the implementation of energy management projects.,0.7361,1
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,18960,协调网络运营、维护、维修或升级。,"Coordinate network operations, maintenance, repairs, or upgrades.",0.7118,2
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,6027,维护地理信息系统实验室，履行更新软件等职责。,"Maintain geographic information systems laboratories, performing duties such as updating software.",0.7117,3
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,15505,监督水电站设备安装、升级或维护。,"Supervise hydropower plant equipment installations, upgrades, or maintenance.",0.7117,4
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.7094,5
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,15439,执行或指导地热发电厂设备的预防性维护。,Perform or direct the performance of preventative maintenance on geothermal plant equipment.,0.7078,6
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,15507,规划或管理水力发电厂升级。,Plan or manage hydroelectric plant upgrades.,0.7029,7
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,9521,指导员工工作政策和程序以及设备的使用和维护。,"Instruct staff in work policies and procedures, and the use and maintenance of equipment.",0.696,8
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,15816,监控并维护日常设施运营记录。,Monitor and maintain records of daily facility operations.,0.696,9
+2364201428021,3,负责各项目电厂管理信息平台后期的运行维护工作,17945,维护、校准或修理地热发电厂的仪表、控制和电子设备。,"Maintain, calibrate, or repair plant instrumentation, control, and electronic devices in geothermal plants.",0.6953,10
+2364201428021,4,负责项目现场的组织和管理工作,20490,管理和指导项目现场的施工、运营或维护活动。,"Manage and direct the construction, operations, or maintenance activities at project site.",0.8572,1
+2364201428021,4,负责项目现场的组织和管理工作,16163,指导或协调项目人员的活动。,Direct or coordinate activities of project personnel.,0.8097,2
+2364201428021,4,负责项目现场的组织和管理工作,16165,协调项目人员的招聘或选择。,Coordinate recruitment or selection of project personnel.,0.7706,3
+2364201428021,4,负责项目现场的组织和管理工作,11428,协调工作活动与其他建设项目活动。,Coordinate work activities with other construction project activities.,0.7598,4
+2364201428021,4,负责项目现场的组织和管理工作,15857,协调环境清理或修复项目的现场活动，以确保遵守环境法律、标准、法规或其他要求。,"Coordinate on-site activities for environmental cleanup or remediation projects to ensure compliance with environmental laws, standards, regulations, or other requirements.",0.7575,5
+2364201428021,4,负责项目现场的组织和管理工作,11048,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,6
+2364201428021,4,负责项目现场的组织和管理工作,22666,规划项目安排或大纲，并相应地组织材料。,"Plan project arrangements or outlines, and organize material accordingly.",0.7542,7
+2364201428021,4,负责项目现场的组织和管理工作,16167,向项目人员分配职责、责任和权限。,"Assign duties, responsibilities, and spans of authority to project personnel.",0.7536,8
+2364201428021,4,负责项目现场的组织和管理工作,14637,指导部门的日常运作，协调与其他部门的项目活动。,"Direct daily operations of departments, coordinating project activities with other departments.",0.7514,9
+2364201428021,4,负责项目现场的组织和管理工作,16836,设计采样计划或协调组织标本等样本的现场采集。,Design sampling plans or coordinate the field collection of samples such as tissue specimens.,0.7461,10
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,14260,按照蓝图进行具体设计。,Follow blueprints to produce specific designs.,0.7846,1
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18520,审查并详述施工计划的施工图。,Review and detail shop drawings for construction plans.,0.7708,2
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,1462,起草项目的详细尺寸图和设计布局，以确保符合规格。,Draft detailed dimensional drawings and design layouts for projects to ensure conformance to specifications.,0.7682,3
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21918,根据草图或笔记绘制结构、装置和建设项目（例如高速公路、污水处理系统和堤坝）的规划和详细图纸。,"Draft plans and detailed drawings for structures, installations, and construction projects, such as highways, sewage disposal systems, and dikes, working from sketches or notes.",0.7517,4
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21945,根据向安装人员提供指示的要求，起草工作图、接线图、接线连接规范或地下电缆横截面。,"Draft working drawings, wiring diagrams, wiring connection specifications, or cross-sections of underground cables, as required for instructions to installation crew.",0.7493,5
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,18521,使用计算机辅助绘图 (CAD) 和相关软件来生成施工文件。,Use computer-aided drafting (CAD) and related software to produce construction documents.,0.749,6
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,21929,根据设计规范和所需材料的数量，确定应遵循的程序和说明。,"Determine procedures and instructions to be followed, according to design specifications and quantity of required materials.",0.7436,7
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,23611,分析工程图纸、蓝图、规格、草图、工单和材料安全数据表，以规划布局、装配和操作。,"Analyze engineering drawings, blueprints, specifications, sketches, work orders, and material safety data sheets to plan layout, assembly, and operations.",0.7379,8
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,10042,研究工程图纸和蓝图以确定材料要求和任务顺序。,Study engineering drawings and blueprints to determine materials requirements and task sequences.,0.7343,9
+2364201428021,5,根据项目要求和系统设计方案，深化设计，绘制施工图,3323,研究工作规范以确定适当的施工方法。,Study job specifications to determine appropriate construction methods.,0.7336,10

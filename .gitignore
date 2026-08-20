@@ -1,0 +1,7 @@
+_src.zip
+_src/models/pytorch_model.bin
+_src/models/onnx/model.onnx_data
+__pycache__/
+*.pyc
+.DS_Store
+_src/models/.locks/
